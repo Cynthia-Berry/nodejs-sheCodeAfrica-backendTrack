@@ -126,6 +126,7 @@ dist
 /file-upload/coverage
 /file-upload/coverage/*
 /file-upload/dist/
+file-upload/.idea
 
 /file-upload/node_modules
 /file-upload/.pnp
