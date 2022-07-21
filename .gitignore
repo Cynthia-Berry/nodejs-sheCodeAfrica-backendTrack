@@ -126,7 +126,7 @@ dist
 /file-upload/coverage
 /file-upload/coverage/*
 /file-upload/dist/
-file-upload/.idea
+file-upload/.idea/
 
 /file-upload/node_modules
 /file-upload/.pnp
@@ -141,4 +141,31 @@ file-upload/.idea
 /file-upload/.project
 /file-upload/.classpath
 /file-upload/.c9/
+
+/logger/dist
+/logger/tmp
+/logger/out-tsc
+/logger/bazel-out
+/logger/logs
+/logger/logs/*
+/logger/coverage
+/logger/coverage/*
+/logger/dist/
+/logger/.idea
+/logger/.env
+
+
+/logger/node_modules
+/logger/.pnp
+/logger/.pnp.js
+/logger/.pnp.*
+/logger/package-lock.json
+
+/logger/chrome-profiler-events.json
+/logger/node_modules/
+/logger/jspm_packages/
+/logger/npm-debug.log*
+/logger/.project
+/logger/.classpath
+/logger/.c9/
 
