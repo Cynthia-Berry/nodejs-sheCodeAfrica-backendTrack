@@ -1,7 +1,5 @@
 ### Node template
 # Logs
-logs
-*.log
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
@@ -146,8 +144,6 @@ file-upload/.idea/
 /logger/tmp
 /logger/out-tsc
 /logger/bazel-out
-/logger/logs
-/logger/logs/*
 /logger/coverage
 /logger/coverage/*
 /logger/dist/
